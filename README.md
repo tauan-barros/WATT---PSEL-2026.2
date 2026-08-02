@@ -1,6 +1,6 @@
 # WATT---PSEL-2026.2
-desafio de automação
 
+Desafio de automação
 
 Como entregar este desafio:
 
