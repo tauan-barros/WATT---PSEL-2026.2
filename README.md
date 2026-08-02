@@ -6,7 +6,7 @@ Como entregar este desafio:
 
 Para garantir a privacidade da sua solução, siga os passos abaixo:
 
-Clique no botão verde "Use this template" -> "Create a new repository" 
+Clique no botão verde "Use this template" (canto superior direito) -> "Create a new repository" 
 
 Dê o nome do seu repositório de desafio-watt-[nome-da-dupla].
 
